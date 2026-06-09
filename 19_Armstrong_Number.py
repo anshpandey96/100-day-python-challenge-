@@ -1,5 +1,5 @@
 # An Armstrong number (also called a narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
- 
+
 # In short: Armstrong number = sum of powered digits equals the number itself.
 
 num = int(input("Enter a number : "))
