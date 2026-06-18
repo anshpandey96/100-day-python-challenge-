@@ -13,3 +13,4 @@ if n <= 0:
 else:
     result = cube_sum_of_natural_numbers(n)   
     print(f"The cube sum of the first {n} natural number is : {result}") 
+
