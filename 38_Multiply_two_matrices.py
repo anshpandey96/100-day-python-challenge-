@@ -30,9 +30,3 @@ else:
     print("Result of matrix multiplication: ")
     for row in result_matrix:
         print(row)    
-        
-
-
-git add .
-git commit -m "Multiply of two matrices"
-git push
